@@ -5,4 +5,5 @@ print(a+b)
 
 print(a)
 
-print(lll)
+print( a + a + a )
+print(b+b)
